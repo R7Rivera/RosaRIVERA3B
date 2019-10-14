@@ -1,0 +1,11 @@
+C:\Users\ROSY RIVERA\source\repos\ROMBO-ASTERISCO\ROMBO-ASTERISCO\obj\Debug\netcoreapp3.0\ROMBO-ASTERISCO.csprojAssemblyReference.cache
+C:\Users\ROSY RIVERA\source\repos\ROMBO-ASTERISCO\ROMBO-ASTERISCO\obj\Debug\netcoreapp3.0\ROMBO-ASTERISCO.AssemblyInfoInputs.cache
+C:\Users\ROSY RIVERA\source\repos\ROMBO-ASTERISCO\ROMBO-ASTERISCO\obj\Debug\netcoreapp3.0\ROMBO-ASTERISCO.AssemblyInfo.cs
+C:\Users\ROSY RIVERA\source\repos\ROMBO-ASTERISCO\ROMBO-ASTERISCO\bin\Debug\netcoreapp3.0\ROMBO-ASTERISCO.exe
+C:\Users\ROSY RIVERA\source\repos\ROMBO-ASTERISCO\ROMBO-ASTERISCO\bin\Debug\netcoreapp3.0\ROMBO-ASTERISCO.deps.json
+C:\Users\ROSY RIVERA\source\repos\ROMBO-ASTERISCO\ROMBO-ASTERISCO\bin\Debug\netcoreapp3.0\ROMBO-ASTERISCO.runtimeconfig.json
+C:\Users\ROSY RIVERA\source\repos\ROMBO-ASTERISCO\ROMBO-ASTERISCO\bin\Debug\netcoreapp3.0\ROMBO-ASTERISCO.runtimeconfig.dev.json
+C:\Users\ROSY RIVERA\source\repos\ROMBO-ASTERISCO\ROMBO-ASTERISCO\bin\Debug\netcoreapp3.0\ROMBO-ASTERISCO.dll
+C:\Users\ROSY RIVERA\source\repos\ROMBO-ASTERISCO\ROMBO-ASTERISCO\bin\Debug\netcoreapp3.0\ROMBO-ASTERISCO.pdb
+C:\Users\ROSY RIVERA\source\repos\ROMBO-ASTERISCO\ROMBO-ASTERISCO\obj\Debug\netcoreapp3.0\ROMBO-ASTERISCO.dll
+C:\Users\ROSY RIVERA\source\repos\ROMBO-ASTERISCO\ROMBO-ASTERISCO\obj\Debug\netcoreapp3.0\ROMBO-ASTERISCO.pdb

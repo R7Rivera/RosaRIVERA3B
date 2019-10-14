@@ -1,0 +1,10 @@
+C:\Users\ROSY RIVERA\source\repos\ConsoleApp3\ConsoleApp3\bin\Release\netcoreapp3.0\ConsoleApp3.exe
+C:\Users\ROSY RIVERA\source\repos\ConsoleApp3\ConsoleApp3\bin\Release\netcoreapp3.0\ConsoleApp3.deps.json
+C:\Users\ROSY RIVERA\source\repos\ConsoleApp3\ConsoleApp3\bin\Release\netcoreapp3.0\ConsoleApp3.runtimeconfig.json
+C:\Users\ROSY RIVERA\source\repos\ConsoleApp3\ConsoleApp3\bin\Release\netcoreapp3.0\ConsoleApp3.runtimeconfig.dev.json
+C:\Users\ROSY RIVERA\source\repos\ConsoleApp3\ConsoleApp3\bin\Release\netcoreapp3.0\ConsoleApp3.dll
+C:\Users\ROSY RIVERA\source\repos\ConsoleApp3\ConsoleApp3\bin\Release\netcoreapp3.0\ConsoleApp3.pdb
+C:\Users\ROSY RIVERA\source\repos\ConsoleApp3\ConsoleApp3\obj\Release\netcoreapp3.0\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\ROSY RIVERA\source\repos\ConsoleApp3\ConsoleApp3\obj\Release\netcoreapp3.0\ConsoleApp3.AssemblyInfo.cs
+C:\Users\ROSY RIVERA\source\repos\ConsoleApp3\ConsoleApp3\obj\Release\netcoreapp3.0\ConsoleApp3.dll
+C:\Users\ROSY RIVERA\source\repos\ConsoleApp3\ConsoleApp3\obj\Release\netcoreapp3.0\ConsoleApp3.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ROMBO-ASTERISCO/1.0.0": {
+        "runtime": {
+          "ROMBO-ASTERISCO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ROMBO-ASTERISCO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

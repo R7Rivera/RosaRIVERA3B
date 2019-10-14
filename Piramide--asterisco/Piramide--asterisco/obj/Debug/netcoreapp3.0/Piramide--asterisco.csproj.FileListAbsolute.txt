@@ -1,0 +1,11 @@
+C:\Users\ROSY RIVERA\source\repos\Piramide--asterisco\Piramide--asterisco\bin\Debug\netcoreapp3.0\Piramide--asterisco.exe
+C:\Users\ROSY RIVERA\source\repos\Piramide--asterisco\Piramide--asterisco\bin\Debug\netcoreapp3.0\Piramide--asterisco.deps.json
+C:\Users\ROSY RIVERA\source\repos\Piramide--asterisco\Piramide--asterisco\bin\Debug\netcoreapp3.0\Piramide--asterisco.runtimeconfig.json
+C:\Users\ROSY RIVERA\source\repos\Piramide--asterisco\Piramide--asterisco\bin\Debug\netcoreapp3.0\Piramide--asterisco.runtimeconfig.dev.json
+C:\Users\ROSY RIVERA\source\repos\Piramide--asterisco\Piramide--asterisco\bin\Debug\netcoreapp3.0\Piramide--asterisco.dll
+C:\Users\ROSY RIVERA\source\repos\Piramide--asterisco\Piramide--asterisco\bin\Debug\netcoreapp3.0\Piramide--asterisco.pdb
+C:\Users\ROSY RIVERA\source\repos\Piramide--asterisco\Piramide--asterisco\obj\Debug\netcoreapp3.0\Piramide--asterisco.AssemblyInfoInputs.cache
+C:\Users\ROSY RIVERA\source\repos\Piramide--asterisco\Piramide--asterisco\obj\Debug\netcoreapp3.0\Piramide--asterisco.AssemblyInfo.cs
+C:\Users\ROSY RIVERA\source\repos\Piramide--asterisco\Piramide--asterisco\obj\Debug\netcoreapp3.0\Piramide--asterisco.dll
+C:\Users\ROSY RIVERA\source\repos\Piramide--asterisco\Piramide--asterisco\obj\Debug\netcoreapp3.0\Piramide--asterisco.pdb
+C:\Users\ROSY RIVERA\source\repos\Piramide--asterisco\Piramide--asterisco\obj\Debug\netcoreapp3.0\Piramide--asterisco.csprojAssemblyReference.cache
