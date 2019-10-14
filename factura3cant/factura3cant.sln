@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "factura3cant", "factura3cant\factura3cant.csproj", "{CAAF1B34-132B-46BD-8F47-57FA1B434165}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fact3cant2", "fact3cant2\fact3cant2.csproj", "{146EE8B9-ECDB-45DB-AC58-AE445806ADDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAAF1B34-132B-46BD-8F47-57FA1B434165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAAF1B34-132B-46BD-8F47-57FA1B434165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAAF1B34-132B-46BD-8F47-57FA1B434165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAAF1B34-132B-46BD-8F47-57FA1B434165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{146EE8B9-ECDB-45DB-AC58-AE445806ADDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{146EE8B9-ECDB-45DB-AC58-AE445806ADDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{146EE8B9-ECDB-45DB-AC58-AE445806ADDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{146EE8B9-ECDB-45DB-AC58-AE445806ADDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6BF8C33-ABBE-44EA-A9DE-22D49B70BC55}
+	EndGlobalSection
+EndGlobal

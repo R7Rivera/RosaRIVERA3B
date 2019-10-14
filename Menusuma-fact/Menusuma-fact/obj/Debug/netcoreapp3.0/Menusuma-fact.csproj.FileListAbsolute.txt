@@ -1,0 +1,11 @@
+C:\Users\ROSY RIVERA\source\repos\Menusuma-fact\Menusuma-fact\bin\Debug\netcoreapp3.0\Menusuma-fact.exe
+C:\Users\ROSY RIVERA\source\repos\Menusuma-fact\Menusuma-fact\bin\Debug\netcoreapp3.0\Menusuma-fact.deps.json
+C:\Users\ROSY RIVERA\source\repos\Menusuma-fact\Menusuma-fact\bin\Debug\netcoreapp3.0\Menusuma-fact.runtimeconfig.json
+C:\Users\ROSY RIVERA\source\repos\Menusuma-fact\Menusuma-fact\bin\Debug\netcoreapp3.0\Menusuma-fact.runtimeconfig.dev.json
+C:\Users\ROSY RIVERA\source\repos\Menusuma-fact\Menusuma-fact\bin\Debug\netcoreapp3.0\Menusuma-fact.dll
+C:\Users\ROSY RIVERA\source\repos\Menusuma-fact\Menusuma-fact\bin\Debug\netcoreapp3.0\Menusuma-fact.pdb
+C:\Users\ROSY RIVERA\source\repos\Menusuma-fact\Menusuma-fact\obj\Debug\netcoreapp3.0\Menusuma-fact.csprojAssemblyReference.cache
+C:\Users\ROSY RIVERA\source\repos\Menusuma-fact\Menusuma-fact\obj\Debug\netcoreapp3.0\Menusuma-fact.AssemblyInfoInputs.cache
+C:\Users\ROSY RIVERA\source\repos\Menusuma-fact\Menusuma-fact\obj\Debug\netcoreapp3.0\Menusuma-fact.AssemblyInfo.cs
+C:\Users\ROSY RIVERA\source\repos\Menusuma-fact\Menusuma-fact\obj\Debug\netcoreapp3.0\Menusuma-fact.dll
+C:\Users\ROSY RIVERA\source\repos\Menusuma-fact\Menusuma-fact\obj\Debug\netcoreapp3.0\Menusuma-fact.pdb

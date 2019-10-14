@@ -1,0 +1,11 @@
+C:\Users\ROSY RIVERA\source\repos\factura3cant\factura3cant\obj\Debug\netcoreapp3.0\factura3cant.csprojAssemblyReference.cache
+C:\Users\ROSY RIVERA\source\repos\factura3cant\factura3cant\obj\Debug\netcoreapp3.0\factura3cant.AssemblyInfoInputs.cache
+C:\Users\ROSY RIVERA\source\repos\factura3cant\factura3cant\obj\Debug\netcoreapp3.0\factura3cant.AssemblyInfo.cs
+C:\Users\ROSY RIVERA\source\repos\factura3cant\factura3cant\bin\Debug\netcoreapp3.0\factura3cant.exe
+C:\Users\ROSY RIVERA\source\repos\factura3cant\factura3cant\bin\Debug\netcoreapp3.0\factura3cant.deps.json
+C:\Users\ROSY RIVERA\source\repos\factura3cant\factura3cant\bin\Debug\netcoreapp3.0\factura3cant.runtimeconfig.json
+C:\Users\ROSY RIVERA\source\repos\factura3cant\factura3cant\bin\Debug\netcoreapp3.0\factura3cant.runtimeconfig.dev.json
+C:\Users\ROSY RIVERA\source\repos\factura3cant\factura3cant\bin\Debug\netcoreapp3.0\factura3cant.dll
+C:\Users\ROSY RIVERA\source\repos\factura3cant\factura3cant\bin\Debug\netcoreapp3.0\factura3cant.pdb
+C:\Users\ROSY RIVERA\source\repos\factura3cant\factura3cant\obj\Debug\netcoreapp3.0\factura3cant.dll
+C:\Users\ROSY RIVERA\source\repos\factura3cant\factura3cant\obj\Debug\netcoreapp3.0\factura3cant.pdb

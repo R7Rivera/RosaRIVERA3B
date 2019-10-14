@@ -1,0 +1,11 @@
+C:\Users\ROSY RIVERA\source\repos\2PRO\2PRO\obj\Debug\netcoreapp3.0\2PRO.csprojAssemblyReference.cache
+C:\Users\ROSY RIVERA\source\repos\2PRO\2PRO\obj\Debug\netcoreapp3.0\2PRO.AssemblyInfoInputs.cache
+C:\Users\ROSY RIVERA\source\repos\2PRO\2PRO\obj\Debug\netcoreapp3.0\2PRO.AssemblyInfo.cs
+C:\Users\ROSY RIVERA\source\repos\2PRO\2PRO\bin\Debug\netcoreapp3.0\2PRO.exe
+C:\Users\ROSY RIVERA\source\repos\2PRO\2PRO\bin\Debug\netcoreapp3.0\2PRO.deps.json
+C:\Users\ROSY RIVERA\source\repos\2PRO\2PRO\bin\Debug\netcoreapp3.0\2PRO.runtimeconfig.json
+C:\Users\ROSY RIVERA\source\repos\2PRO\2PRO\bin\Debug\netcoreapp3.0\2PRO.runtimeconfig.dev.json
+C:\Users\ROSY RIVERA\source\repos\2PRO\2PRO\bin\Debug\netcoreapp3.0\2PRO.dll
+C:\Users\ROSY RIVERA\source\repos\2PRO\2PRO\bin\Debug\netcoreapp3.0\2PRO.pdb
+C:\Users\ROSY RIVERA\source\repos\2PRO\2PRO\obj\Debug\netcoreapp3.0\2PRO.dll
+C:\Users\ROSY RIVERA\source\repos\2PRO\2PRO\obj\Debug\netcoreapp3.0\2PRO.pdb
