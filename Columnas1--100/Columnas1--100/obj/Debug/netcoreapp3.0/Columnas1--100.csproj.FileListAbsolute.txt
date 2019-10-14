@@ -1,0 +1,11 @@
+C:\Users\ROSY RIVERA\source\repos\Columnas1--100\Columnas1--100\bin\Debug\netcoreapp3.0\Columnas1--100.exe
+C:\Users\ROSY RIVERA\source\repos\Columnas1--100\Columnas1--100\bin\Debug\netcoreapp3.0\Columnas1--100.deps.json
+C:\Users\ROSY RIVERA\source\repos\Columnas1--100\Columnas1--100\bin\Debug\netcoreapp3.0\Columnas1--100.runtimeconfig.json
+C:\Users\ROSY RIVERA\source\repos\Columnas1--100\Columnas1--100\bin\Debug\netcoreapp3.0\Columnas1--100.runtimeconfig.dev.json
+C:\Users\ROSY RIVERA\source\repos\Columnas1--100\Columnas1--100\bin\Debug\netcoreapp3.0\Columnas1--100.dll
+C:\Users\ROSY RIVERA\source\repos\Columnas1--100\Columnas1--100\bin\Debug\netcoreapp3.0\Columnas1--100.pdb
+C:\Users\ROSY RIVERA\source\repos\Columnas1--100\Columnas1--100\obj\Debug\netcoreapp3.0\Columnas1--100.csprojAssemblyReference.cache
+C:\Users\ROSY RIVERA\source\repos\Columnas1--100\Columnas1--100\obj\Debug\netcoreapp3.0\Columnas1--100.AssemblyInfoInputs.cache
+C:\Users\ROSY RIVERA\source\repos\Columnas1--100\Columnas1--100\obj\Debug\netcoreapp3.0\Columnas1--100.AssemblyInfo.cs
+C:\Users\ROSY RIVERA\source\repos\Columnas1--100\Columnas1--100\obj\Debug\netcoreapp3.0\Columnas1--100.dll
+C:\Users\ROSY RIVERA\source\repos\Columnas1--100\Columnas1--100\obj\Debug\netcoreapp3.0\Columnas1--100.pdb

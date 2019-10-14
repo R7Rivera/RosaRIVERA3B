@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "TablaMultiplicar15/1.0.0": {
+        "runtime": {
+          "TablaMultiplicar15.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TablaMultiplicar15/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
